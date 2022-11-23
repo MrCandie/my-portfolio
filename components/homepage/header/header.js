@@ -6,7 +6,7 @@ import classes from "./header.module.css";
 import Head from "next/head";
 
 export default function Header() {
-  const [showMenu, setShowMenu] = useState(true);
+  const [showMenu, setShowMenu] = useState(false);
   return (
     <Fragment>
       <Head>
