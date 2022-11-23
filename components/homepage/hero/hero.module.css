@@ -1,0 +1,61 @@
+.section {
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
+    url("/images/candie.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.hero h1 {
+  color: #fff;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+}
+.hero p {
+  font-size: 1.7rem;
+  color: #fff;
+  background: transparent;
+  text-transform: capitalize;
+  /* animation: back 0.7s ease-in infinite; */
+}
+.hero a {
+  width: 150px;
+  margin: 1rem auto;
+  padding: 1rem 0;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  background: #ab8000;
+  cursor: pointer;
+  transition: transform 0.25s ease-in;
+}
+.hero a:active {
+  transform: scale(0.5);
+}
+@keyframes back {
+  0% {
+    background: transparent;
+  }
+  50% {
+    color: #000;
+  }
+  100% {
+    background: #ab8000;
+    padding: 1rem;
+  }
+}
