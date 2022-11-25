@@ -35,7 +35,7 @@ export default function Features() {
           <img src="/images/portfolio.png" />
           <h1>My Portfolio</h1>
           <p>My personal portfolio built with next.js</p>
-          <a href="">Visit Website</a>
+          <a href="https://mrcandie.vercel.app/">Visit Website</a>
         </div>
       </div>
     </section>

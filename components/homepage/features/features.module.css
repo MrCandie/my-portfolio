@@ -65,4 +65,7 @@
     width: 90%;
     margin: auto;
   }
+  .project a {
+    width: 55%;
+  }
 }

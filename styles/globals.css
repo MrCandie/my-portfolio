@@ -25,13 +25,3 @@ a {
   background-color: rgba(0, 0, 0, 0.4);
   backdrop-filter: blur(4px);
 }
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
-}
