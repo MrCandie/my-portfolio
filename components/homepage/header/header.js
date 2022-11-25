@@ -10,14 +10,14 @@ export default function Header() {
   return (
     <Fragment>
       <Head>
-        <script
-          src="https://kit.fontawesome.com/ea3bde8322.js"
-          crossorigin="anonymous"
-        ></script>
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+        />
       </Head>
       <header className={classes.header}>
         <div onClick={() => setShowMenu(true)} className={classes.menu}>
-          <i className="fa-solid fa-bars"></i>
+          <span class="material-symbols-outlined">menu</span>
         </div>
         <div className={classes.logo}>
           <img src="/images/candie logo jpg.jpg" alt="my logo" />
@@ -38,7 +38,7 @@ export default function Header() {
         {showMenu && (
           <div className={classes.nav}>
             <div onClick={() => setShowMenu(false)} className={classes.close}>
-              <i class="fa-solid fa-xmark"></i>
+              <span class="material-symbols-outlined">close</span>
             </div>
             <ul>
               <li>

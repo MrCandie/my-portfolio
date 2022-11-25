@@ -74,7 +74,8 @@
   .menu {
     display: block;
     position: absolute;
-    color: red;
+    color: #000;
+    font-weight: bold;
     right: 0;
     font-size: 1.3rem;
     margin-right: 1rem;
