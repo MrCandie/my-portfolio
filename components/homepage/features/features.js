@@ -17,6 +17,15 @@ export default function Features() {
           <Link href="https://dc-luxury.web.app">Visit Website</Link>
         </div>
         <div className={classes.project}>
+          <img src="/images/chow.png" />
+          <h1>Chow</h1>
+          <p>
+            A platform where you can order your favorite meals from your
+            favorite restaurant!. Built with Next.js
+          </p>
+          <a href="https://chow-mrcandie.vercel.app/">Visit Website</a>
+        </div>
+        <div className={classes.project}>
           <img src="/images/medicobaze.png" />
           <h1>Medicobaze</h1>
           <p>
