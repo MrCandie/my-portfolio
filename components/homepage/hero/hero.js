@@ -7,7 +7,7 @@ export default function Hero() {
         <h1>Welcome!!!</h1>
         <p>I create magic with Javascript!</p>
         <a
-          href="https://drive.google.com/file/d/1-SGtT6rQloDPC2ibUefpSLXdFMfdauBF/view?usp=drivesdk"
+          href="https://drive.google.com/file/d/1-hRMXAqJOHLHfDpwhcHc-ErMnWEfJgWt/view?usp=drivesdk"
           download
         >
           DOWNLOAD CV
