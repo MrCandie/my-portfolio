@@ -26,6 +26,15 @@ export default function Features() {
           <a href="https://chow-mrcandie.vercel.app/">Visit Website</a>
         </div>
         <div className={classes.project}>
+          <img src="/images/artsy.png" />
+          <h1>Artsy</h1>
+          <p>
+            An online photo gallery and marketplace for creators. Built with
+            next.js
+          </p>
+          <a href="https://artsy-kappa.vercel.app/">Visit Website</a>
+        </div>
+        <div className={classes.project}>
           <img src="/images/medicobaze.png" />
           <h1>Medicobaze</h1>
           <p>
@@ -40,17 +49,7 @@ export default function Features() {
           <p>A personal blog built with next.js</p>
           <a href="https://candiblog.vercel.app/">Visit Website</a>
         </div>
-        <div className={classes.project}>
-          <img src="/images/artsy.png" />
-          <h1>Artsy</h1>
-          <p>
-            An online photo gallery and marketplace for creators. Built with
-            next.js
-          </p>
-          <a href="https://artsy-a26sxww8r-mrcandie.vercel.app/">
-            Visit Website
-          </a>
-        </div>
+
         <div className={classes.project}>
           <img src="/images/portfolio.png" />
           <h1>My Portfolio</h1>
