@@ -46,7 +46,7 @@
   border: none;
   cursor: pointer;
   width: 40%;
-  margin: 1rem auto;
+  margin: 2rem auto;
   font-size: 0.9rem;
   transition: transform 0.25s ease-in;
 }

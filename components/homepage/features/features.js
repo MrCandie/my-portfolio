@@ -8,7 +8,7 @@ export default function Features() {
       <hr />
       <div className={classes.container}>
         <div className={classes.project}>
-          <img src="/images/medicfy.png" />
+          <img src="/images/welcome.png" />
           <h1>Medicfy</h1>
           <p>
             An health tech platform that keeps you notified and up to date about
@@ -18,7 +18,7 @@ export default function Features() {
         </div>
 
         <div className={classes.project}>
-          <img src="/images/dc.png" />
+          <img src="/images/dcl.png" />
           <h1>DC Luxury</h1>
           <p>
             An e-commerce fashion store built with react. Implemented a wallet
@@ -27,7 +27,7 @@ export default function Features() {
           <Link href="https://dc-luxury.web.app">Visit Website</Link>
         </div>
         <div className={classes.project}>
-          <img src="/images/chow.png" />
+          <img src="/images/choww.png" />
           <h1>Chow</h1>
           <p>
             A platform where you can order your favorite meals from your
@@ -36,7 +36,7 @@ export default function Features() {
           <a href="https://chow-mrcandie.vercel.app/">Visit Website</a>
         </div>
         <div className={classes.project}>
-          <img src="/images/artsy.png" />
+          <img src="/images/artssy.png" />
           <h1>Artsy</h1>
           <p>
             An online photo gallery and marketplace for creators. Built with
@@ -45,7 +45,7 @@ export default function Features() {
           <a href="https://artssy.vercel.app/">Visit Website</a>
         </div>
         <div className={classes.project}>
-          <img src="/images/medicobaze.png" />
+          <img src="/images/medic.png" />
           <h1>Medicobaze</h1>
           <p>
             An electronic medical record system for health institutions. Built
@@ -54,14 +54,14 @@ export default function Features() {
           <a href="https://medicobaze.vercel.app/">Visit Website</a>
         </div>
         <div className={classes.project}>
-          <img src="/images/blog.png" />
+          <img src="/images/blogg.png" />
           <h1>Candiblog</h1>
           <p>A personal blog built with next.js</p>
           <a href="https://candiblog.vercel.app/">Visit Website</a>
         </div>
 
         <div className={classes.project}>
-          <img src="/images/portfolio.png" />
+          <img src="/images/myport.png" />
           <h1>My Portfolio</h1>
           <p>My personal portfolio built with next.js</p>
           <a href="https://mrcandie.vercel.app/">Visit Website</a>
