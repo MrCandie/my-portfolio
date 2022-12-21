@@ -8,6 +8,16 @@ export default function Features() {
       <hr />
       <div className={classes.container}>
         <div className={classes.project}>
+          <img src="/images/medicfy.png" />
+          <h1>Medicfy</h1>
+          <p>
+            An health tech platform that keeps you notified and up to date about
+            your medications and doctor's appointment. Built with Next.js
+          </p>
+          <a href="https://medic-bay.vercel.app/">Visit Website</a>
+        </div>
+
+        <div className={classes.project}>
           <img src="/images/dc.png" />
           <h1>DC Luxury</h1>
           <p>
@@ -32,7 +42,7 @@ export default function Features() {
             An online photo gallery and marketplace for creators. Built with
             next.js
           </p>
-          <a href="https://artsy-kappa.vercel.app/">Visit Website</a>
+          <a href="https://artssy.vercel.app/">Visit Website</a>
         </div>
         <div className={classes.project}>
           <img src="/images/medicobaze.png" />
