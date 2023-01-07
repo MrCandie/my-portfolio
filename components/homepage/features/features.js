@@ -18,6 +18,16 @@ export default function Features() {
         </div>
 
         <div className={classes.project}>
+          <img src="/images/pyramid.png" />
+          <h1>Pyramid Mining</h1>
+          <p>
+            An investment platform, built with a wallet system that manages
+            client's assets and transactions. Built with Next.js
+          </p>
+          <a href="https://pyramidminingconstruction.com/">Visit Website</a>
+        </div>
+
+        <div className={classes.project}>
           <img src="/images/dcl.png" />
           <h1>DC Luxury</h1>
           <p>
