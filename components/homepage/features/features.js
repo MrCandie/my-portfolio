@@ -21,10 +21,11 @@ export default function Features() {
           <img src="/images/pyramid.png" />
           <h1>Pyramid Mining</h1>
           <p>
-            An investment platform, built with a wallet system that manages
-            client's assets and transactions. Built with Next.js
+            An investment website built with Next.js, built a fully functioning
+            wallet system to manage deposit and withdrawals, integrated a fully
+            functioning referral based architecture
           </p>
-          <a href="https://pyramidminingconstruction.com/">Visit Website</a>
+          <a href="https://validcrest.org/">Visit Website</a>
         </div>
 
         <div className={classes.project}>
