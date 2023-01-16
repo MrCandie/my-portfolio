@@ -19,7 +19,7 @@ export default function Features() {
 
         <div className={classes.project}>
           <img src="/images/pyramid.png" />
-          <h1>Pyramid Mining</h1>
+          <h1>Valid Crest</h1>
           <p>
             An investment website built with Next.js, built a fully functioning
             wallet system to manage deposit and withdrawals, integrated a fully
