@@ -8,6 +8,44 @@ export default function Features() {
       <hr />
       <div className={classes.container}>
         <div className={classes.project}>
+          <img src="/images/node.jpeg" />
+          <h1>Birthday API</h1>
+          <p>Built a free API to collect users birthdate</p>
+          <a href="https://github.com/candietechnologies/birthday-api">
+            Visit Website
+          </a>
+        </div>
+        <div className={classes.project}>
+          <img src="/images/soso1.png" />
+          <h1>Sosogames</h1>
+          <p>
+            A marketplace for gift card users and merchants.
+            <br />
+            Built with React.js & Tailwind
+          </p>
+          <a href="https://sosofrontend-alpha.vercel.app/">Visit Website</a>
+        </div>
+        <div className={classes.project}>
+          <img src="/images/node.jpeg" />
+          <h1>Tape Me</h1>
+          <p>
+            A platform for fashion designers to keep customer's data in form of
+            measurement and collaborate with other tailors on large projects.
+            <br /> Built the backend with NODE.JS & EXPRESS.JS
+          </p>
+          <a href="https://sosofrontend-alpha.vercel.app/">Visit Website</a>
+        </div>
+        <div className={classes.project}>
+          <img src="/images/maeve.png" />
+          <h1>Maeve</h1>
+          <p>
+            An investment website with in built wallet system to manage client's
+            funds, Built with Next.js, Node.js, Express.js, TailwindCss &
+            MongoDB
+          </p>
+          <a href="https://investment-sigma.vercel.app/">Visit Website</a>
+        </div>
+        <div className={classes.project}>
           <img src="/images/welcome.png" />
           <h1>Medicfy</h1>
           <p>
@@ -18,7 +56,7 @@ export default function Features() {
         </div>
 
         <div className={classes.project}>
-          <img src="/images/pyramid.png" />
+          <img src="/images/valid.png" />
           <h1>Valid Crest</h1>
           <p>
             An investment website built with Next.js, built a fully functioning
@@ -29,7 +67,7 @@ export default function Features() {
         </div>
 
         <div className={classes.project}>
-          <img src="/images/dcl.png" />
+          <img src="/images/dcl.jpg" />
           <h1>DC Luxury</h1>
           <p>
             An e-commerce fashion store built with react. Implemented a wallet
